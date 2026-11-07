@@ -1,4 +1,3 @@
 # Dashboard-de-vendas
 Dashboard feito no Power Bi sobre qual mês teve mais venda, faturamento, etc...
 <img width="1318" height="736" alt="Captura de tela 2026-11-07 170614" src="https://github.com/user-attachments/assets/b53d1cb5-34e5-4785-af75-2967a7103aef" />
-(C:\Users\renat\OneDrive\Imagens\Screenshots\Captura de tela 2026-11-07 170614.png)
